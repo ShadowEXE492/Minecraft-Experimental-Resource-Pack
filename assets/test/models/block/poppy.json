@@ -1,0 +1,9 @@
+{
+    "parent": "block/flower_crop",
+    "textures": {
+        "cross": "block/poppy",
+        "crop": "block/tomato_crop_bottom",
+        "crop_top": "block/tomato_crop_top",
+        "particle": "block/poppy"
+    }
+}

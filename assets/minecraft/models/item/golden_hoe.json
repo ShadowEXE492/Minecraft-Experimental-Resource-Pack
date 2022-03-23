@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_hoe"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100001 }, "model": "custom/vase" },
+        { "predicate": { "custom_model_data": 100002 }, "model": "custom/oak_planks" }
+    ]
+}
